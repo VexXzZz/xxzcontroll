@@ -1,4 +1,4 @@
-local fuunctioon sendUINotification(thetitle, thetext, time)
+local functioon sendUINotification(thetitle, thetext, time)
     game.StarterGui:SetCore("SendNotification", {
         Title = thetitle;
         Text = thetext;
