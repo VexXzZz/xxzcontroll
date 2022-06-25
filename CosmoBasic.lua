@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("Altcontrol is currently disabled, we're planning for good update!/n/nPlease retry again later./n/n- Husam#0001")
+game:GetService("Players").LocalPlayer:Kick("Altcontrol is currently disabled, we're planning for good update!\n\nPlease retry again later.\n\n- Husam#0001")
