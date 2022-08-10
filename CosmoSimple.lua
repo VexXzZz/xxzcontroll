@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("Cosmo premium is temporary down, we're working on a big update. Meantime you can use the free version, we have added a few extra commands for free version temporary until the premium is backup. The next update will have many cool things, and new features.\n\nWe exepect the premium update to come in Tuesday/Wednesday how ever you stay tuned on the discord server. Disord.gg/Altcontrol\n\n- Husam#0001")
+game:GetService("Players").LocalPlayer:Kick("Outdated version. Join Disord.gg/Altcontrol for the new or dm\n\n- Husam#0001")
